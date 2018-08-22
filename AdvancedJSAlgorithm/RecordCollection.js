@@ -45,7 +45,7 @@ function updateRecords(id,prop,value){
   return collection;
 }
 
-console.log("Get Satrted");
+console.log("Get Started");
 console.log(updateRecords(2548,"album","Loose Goose"));
 console.log(updateRecords(2468,"album","Sum 21"));
 console.log(updateRecords(1245,"album","Michael Jackson"));
